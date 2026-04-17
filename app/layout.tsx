@@ -37,13 +37,13 @@ export const metadata: Metadata = {
   authors: [{ name: "MEROBRATEC" }],
   creator: "MEROBRATEC",
 
-  metadataBase: new URL("https://tudominio.com"),
+  metadataBase: new URL("https://merobratec.vercel.app/"),
 
   openGraph: {
     title: "MEROBRATEC | Constructora & Desarrollo",
     description:
       "Construimos proyectos modernos y de alta calidad. Conoce MEROBRATEC.",
-    url: "https://tudominio.com",
+    url: "https://merobratec.vercel.app/",
     siteName: "MEROBRATEC",
     images: [
       {

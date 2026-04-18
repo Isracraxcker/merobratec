@@ -45,7 +45,7 @@ export const metadata: Metadata = {
 
   // OPEN GRAPH (REDES)
   openGraph: {
-    title: "MEROBRATEC | Constructora & Desarrollo",
+    title: "MEROBRATEC | Constructora & Desarroladora",
     description:
       "Construimos proyectos modernos y de alta calidad. Conoce MEROBRATEC.",
     url: siteUrl,
@@ -65,7 +65,7 @@ export const metadata: Metadata = {
   // TWITTER
   twitter: {
     card: "summary_large_image",
-    title: "MEROBRATEC | Constructora",
+    title: "MEROBRATEC | Constructora & Desarroladora",
     description:
       "Proyectos modernos, construcción de calidad y desarrollo inmobiliario.",
     images: [`${siteUrl}/preview.png`], // 🔥 URL ABSOLUTA
